@@ -1,0 +1,27 @@
+body {
+  font-family: Calibri, sans-serif;
+}  
+
+.time-block {
+  margin: 10% auto 0 auto;
+  padding: 0 0 2% 0;
+  width: 50%;
+  background-color: rgb(243, 243, 243);
+  border-radius: 20px;
+}
+
+.time, .date {
+  user-select: none;
+  margin: 0;
+}
+
+.time {
+  text-align: center;
+  font-size: 150px;
+}
+
+.date {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 100;
+}
