@@ -5,7 +5,8 @@ body {
 .time-block {
   margin: 10% auto 0 auto;
   padding: 0 0 2% 0;
-  width: 50%;
+  width: 55%;
+  min-width: 610px;
   background-color: rgb(242, 242, 242);
   border-radius: 20px;
 }
