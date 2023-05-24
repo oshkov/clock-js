@@ -65,6 +65,4 @@ function setTime() {
     }, 1000);
 }
 
-
-
 setTime()
